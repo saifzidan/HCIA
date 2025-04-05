@@ -1,0 +1,22 @@
+Compiler VS interpreter
+Python Print Statement
+Printing Sepration
+Printing Ending
+Python Comments
+Single Line Comment VS Multiple Line Comment
+Variables & DataTypes
+Variables Naming Rules
+Multiple Variable Assignment
+Multiple Variable Assignment With The Same Value
+Variables Value Swapping
+Escape Sequence Character
+String Concatination
+String Slicing
+Arthmetic Opretors
+Comparison Opretors
+List Revision
+Tuple Revision
+Dictionary Revision
+Set Revision
+Loops & If Statement Revision
+Function Revision
