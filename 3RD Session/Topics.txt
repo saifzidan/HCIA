@@ -1,0 +1,25 @@
+Machine Learning Algorithms
+Programming VS AI
+When To Use Machine Learning
+Rationale Of Machine Learning Algorithms
+Types Of Machine Learning
+Supervised Learning
+Regression VS Classification
+Classification
+Regression Model
+Classification Model
+Hybrid Models
+Data Cycle
+HeatMap
+Machine Learning Basic Concept - Dataset
+Data Cleansing
+Dirty Data
+Data Conversion
+Data Encoding
+Feature Selection
+Model Problems
+Model Effectiveness
+Model Overfit
+Performance Evaluation Of Machine Learning - Classification
+Linear Regression Model
+Prevent Overfit in Linear Regression
