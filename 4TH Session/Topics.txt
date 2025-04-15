@@ -1,0 +1,4 @@
+Regression
+Decision Tree
+Randoom Forest
+Bagging
